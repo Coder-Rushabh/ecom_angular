@@ -1,0 +1,121 @@
+{
+  "Seller": [
+    {
+      "name": "rushabh",
+      "email": "rushabh@gmail.com",
+      "password": "qwe123..",
+      "id": 1
+    }
+  ],
+  "Products": [
+    {
+      "name": "MI C54",
+      "price": "11,000",
+      "category": "Mobile",
+      "color": "Blue",
+      "description": "5g mobile",
+      "image": "https://i0.wp.com/nepaligadgets.com/wp-content/uploads/2022/02/Vivo-T1-5G-Price-in-Nepal..jpg?resize=800%2C445&ssl=1",
+      "id": 1
+    },
+    {
+      "name": "Realme C53",
+      "price": "10,000",
+      "category": "Mobile",
+      "color": "Black",
+      "description": "5g mobile",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2022/10/ET/PB/AU/154884898/3.jpg",
+      "id": 2
+    },
+    {
+      "name": "Realme C53",
+      "price": "10,000",
+      "category": "Mobile",
+      "color": "Black",
+      "description": "5g mobile",
+      "image": "https://images.hindustantimes.com/tech/img/2022/02/16/1600x900/Untitled_design_(17)_1644989571426_1644989601015.jpg",
+      "id": 3
+    },
+    {
+      "name": "Realme C53",
+      "price": "10,000",
+      "category": "Mobile",
+      "color": "Black",
+      "description": "5g mobile",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAFwAXAMBIgACEQEDEQH/xAAcAAEAAgIDAQAAAAAAAAAAAAAABQYEBwIDCAH/xAA/EAABAwMCAgQLAwwDAAAAAAABAgMEAAURBiESMQcTQVEUImFxcnORobGysyUmgRU1QkNSU2JjgpKi0RcjM//EABkBAAMBAQEAAAAAAAAAAAAAAAACBAEDBf/EAB8RAAICAQUBAQAAAAAAAAAAAAABAhExAwQSIVFBIv/aAAwDAQACEQMRAD8A3jSlKAFK1RdOlO4ova41rtjC4bWesXIylQGSOIkHCRt2884rshdMAdkKYkWF9RCsBUV8OcQ78ED41tMyzadKg7ZqFu4QDP6tcOOkbplJAUO8nCiMV2W6/RbkwZEJ9iSwDw9Y0vI4u7z70jmkMk2TFKrV3vtw8KiQLKwx4TIXguywS2hISpR2SQScJ5eUVy8P1OwvDtrtkpH7TE1baifRU3j/ACrOcfQpljpVQtOukz8Jd0/eo6ygr4VMoUeEHhJ4Uq4uY7qsdsuca6MKdil0cCuBaHmlNLQe4pUARzB5bg5pk08A00ZlKUrTBSlKAPNN5edkT5VtjgNBSesdczsSglQK8nGAMj8a4Qpsmx2hiPCmocUpPWuYShKWytzh4QFDiWcqB2OwINfbyXTNvEZp4NIeDRII2UUniGTzwMn21VHpK2222UOIWGxkKLYPConJKeIZHYM7HYHupxTeNuZcv3Ru11knqVzIhQtScDIUMEd3bVXssxzQljcfamW27P3B9bhQxICWm0toOfGO3GQk7d/fjBndPsSJ3RpBgRnlNGRAKFKAB2KSMb+evmhtCoh2iQzqZiHNL8hL6GASttPCnhycgZJqZySu/TtT6os9vlonXayy28hD6C4kEYICmVkZ9tWd1VQT5aOo7WWEBCPG8UDYf9S9qmH1VJrukjpBWyBv8n8n3W0XLOEiR4O6f4F7b+Y4qzMD7Vk+oa+ZyqT0gqzYFDO/XN4/vFXK3uddLW6f04rCvaXK3ZT5WvBtxGlFkjSlK9AlFKUoA8zaiWRcXkq5hRFVySvJO9TWpXc3OQTzKiffVdeXk0xh6L6MV40Pbuf/AJJ+AqckuVW+jReND23P7pPwAqZkLzmppZOqMNBzf7d6a/pLqakKqBaP27bvTX9JdZ90mtRm1uOrSlKRkknFQbyaikUaEeTKn0hSx4NEip3U9JRt5Acmth25ssylNHmiIwn2FytVWVStXa6YcQlRhQ8qJxsQP95x+IrbbP50keoa+Zyumwg4q39F3Uk5UvhmUpSvSJRSlKAPKepV4ur48tQLis1L6oV9sP8AnqFUaYw9C9HCvuRbPVD4VNOq3qvdHC/uVbR3NAe4VOrNSSydlgibsJJmwhCaU691pwlK0I/Vr7VAj3VHSorj3i3izT1o/SW0Y0gp/p4R8DVhgHOo7d6a/pLq5ONodSUuISpJ5hQyK5zhdPoZajj0VvRbVgi29QsbamkqXh0vNlCyodhyByzyG29TzH50keoa+ZysGbYIT4Ko6PBX8eK4x4mPOBzHkrH0uqcmXOj3IhT0dDSAsDHGnKyD7+z3U+k/1TElTVlipSlVHMUpSgDybfFBOpSVYwHATtntqCUd6ltV8bF+lJeSppaFkEOJ4SCFEdvlFRsSJKnK4YMWRJVnGGGlOfAGmMN69HB+5tv9AfAVPJXllJ7xUDoBmRE0tEjS4z8Z9pIC232lIUNh2EVNnsQgE42AG9RyyzssH22HOo7f6a/prq71raXd42nbvAm3gOxogcwt5TSuFIUhaQeXfgfjWc70taS4iiHJlznOxEWG4onzZAocW0qFeS9ZrGYA/Ksk/wAhr5nKpP8AyBdpqQbLoW+SCeRlBMdPt8arHpNV8kokz9QwWbe88UoZiNu9YW2053UobEkqVy7MU2nCSlbFbLBSlKoMFKUoAwX7Na5MsTJFthOykjAfcjpUsD0iM1mIQlCQlCQlI5ADArlSgDqcjMOrC3WW1qHIqSCRXNKEoGEJCR3AYrlSgDHmQYk9rqp0ViS3nPA82FjPmNc48aPGTwxmGmk9zaAke6u2lAClKUAKUpQB/9k=",
+      "id": 4
+    },
+    {
+      "name": "Realme C53",
+      "price": "10,000",
+      "category": "Mobile",
+      "color": "Black",
+      "description": "5g mobile",
+      "image": "data:image/jpeg;base64,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",
+      "id": 5
+    },
+    {
+      "name": "Realme C53",
+      "price": "10,000",
+      "category": "Mobile",
+      "color": "Black",
+      "description": "5g mobile",
+      "image": "data:image/jpeg;base64,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",
+      "id": 6
+    },
+    {
+      "name": "Realme C53",
+      "price": "10,000",
+      "category": "Mobile",
+      "color": "Black",
+      "description": "5g mobile",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAFwAXAMBIgACEQEDEQH/xAAcAAEAAgIDAQAAAAAAAAAAAAAABQYEBwIDCAH/xAA/EAABAwMCAgQLAwwDAAAAAAABAgMEAAURBiESMQcTQVEUImFxcnORobGysyUmgRU1QkNSU2JjgpKi0RcjM//EABkBAAMBAQEAAAAAAAAAAAAAAAACBAEDBf/EAB8RAAICAQUBAQAAAAAAAAAAAAABAhExAwQSIVFBIv/aAAwDAQACEQMRAD8A3jSlKAFK1RdOlO4ova41rtjC4bWesXIylQGSOIkHCRt2884rshdMAdkKYkWF9RCsBUV8OcQ78ED41tMyzadKg7ZqFu4QDP6tcOOkbplJAUO8nCiMV2W6/RbkwZEJ9iSwDw9Y0vI4u7z70jmkMk2TFKrV3vtw8KiQLKwx4TIXguywS2hISpR2SQScJ5eUVy8P1OwvDtrtkpH7TE1baifRU3j/ACrOcfQpljpVQtOukz8Jd0/eo6ygr4VMoUeEHhJ4Uq4uY7qsdsuca6MKdil0cCuBaHmlNLQe4pUARzB5bg5pk08A00ZlKUrTBSlKAPNN5edkT5VtjgNBSesdczsSglQK8nGAMj8a4Qpsmx2hiPCmocUpPWuYShKWytzh4QFDiWcqB2OwINfbyXTNvEZp4NIeDRII2UUniGTzwMn21VHpK2222UOIWGxkKLYPConJKeIZHYM7HYHupxTeNuZcv3Ru11knqVzIhQtScDIUMEd3bVXssxzQljcfamW27P3B9bhQxICWm0toOfGO3GQk7d/fjBndPsSJ3RpBgRnlNGRAKFKAB2KSMb+evmhtCoh2iQzqZiHNL8hL6GASttPCnhycgZJqZySu/TtT6os9vlonXayy28hD6C4kEYICmVkZ9tWd1VQT5aOo7WWEBCPG8UDYf9S9qmH1VJrukjpBWyBv8n8n3W0XLOEiR4O6f4F7b+Y4qzMD7Vk+oa+ZyqT0gqzYFDO/XN4/vFXK3uddLW6f04rCvaXK3ZT5WvBtxGlFkjSlK9AlFKUoA8zaiWRcXkq5hRFVySvJO9TWpXc3OQTzKiffVdeXk0xh6L6MV40Pbuf/AJJ+AqckuVW+jReND23P7pPwAqZkLzmppZOqMNBzf7d6a/pLqakKqBaP27bvTX9JdZ90mtRm1uOrSlKRkknFQbyaikUaEeTKn0hSx4NEip3U9JRt5Acmth25ssylNHmiIwn2FytVWVStXa6YcQlRhQ8qJxsQP95x+IrbbP50keoa+Zyumwg4q39F3Uk5UvhmUpSvSJRSlKAPKepV4ur48tQLis1L6oV9sP8AnqFUaYw9C9HCvuRbPVD4VNOq3qvdHC/uVbR3NAe4VOrNSSydlgibsJJmwhCaU691pwlK0I/Vr7VAj3VHSorj3i3izT1o/SW0Y0gp/p4R8DVhgHOo7d6a/pLq5ONodSUuISpJ5hQyK5zhdPoZajj0VvRbVgi29QsbamkqXh0vNlCyodhyByzyG29TzH50keoa+ZysGbYIT4Ko6PBX8eK4x4mPOBzHkrH0uqcmXOj3IhT0dDSAsDHGnKyD7+z3U+k/1TElTVlipSlVHMUpSgDybfFBOpSVYwHATtntqCUd6ltV8bF+lJeSppaFkEOJ4SCFEdvlFRsSJKnK4YMWRJVnGGGlOfAGmMN69HB+5tv9AfAVPJXllJ7xUDoBmRE0tEjS4z8Z9pIC232lIUNh2EVNnsQgE42AG9RyyzssH22HOo7f6a/prq71raXd42nbvAm3gOxogcwt5TSuFIUhaQeXfgfjWc70taS4iiHJlznOxEWG4onzZAocW0qFeS9ZrGYA/Ksk/wAhr5nKpP8AyBdpqQbLoW+SCeRlBMdPt8arHpNV8kokz9QwWbe88UoZiNu9YW2053UobEkqVy7MU2nCSlbFbLBSlKoMFKUoAwX7Na5MsTJFthOykjAfcjpUsD0iM1mIQlCQlCQlI5ADArlSgDqcjMOrC3WW1qHIqSCRXNKEoGEJCR3AYrlSgDHmQYk9rqp0ViS3nPA82FjPmNc48aPGTwxmGmk9zaAke6u2lAClKUAKUpQB/9k=",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "name": "Rushabh",
+      "email": "rushabh@mail.com",
+      "password": "qwe123..",
+      "id": 1
+    }
+  ],
+  "cart": [
+    {
+      "name": "Realme C53",
+      "price": "10,000",
+      "category": "Mobile",
+      "color": "Black",
+      "description": "5g mobile",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2022/10/ET/PB/AU/154884898/3.jpg",
+      "quantity": 4,
+      "productId": 2,
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "name": "Realme C53",
+      "price": "10,000",
+      "category": "Mobile",
+      "color": "Black",
+      "description": "5g mobile",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAFwAXAMBIgACEQEDEQH/xAAcAAEAAgIDAQAAAAAAAAAAAAAABQYEBwIDCAH/xAA/EAABAwMCAgQLAwwDAAAAAAABAgMEAAURBiESMQcTQVEUImFxcnORobGysyUmgRU1QkNSU2JjgpKi0RcjM//EABkBAAMBAQEAAAAAAAAAAAAAAAACBAEDBf/EAB8RAAICAQUBAQAAAAAAAAAAAAABAhExAwQSIVFBIv/aAAwDAQACEQMRAD8A3jSlKAFK1RdOlO4ova41rtjC4bWesXIylQGSOIkHCRt2884rshdMAdkKYkWF9RCsBUV8OcQ78ED41tMyzadKg7ZqFu4QDP6tcOOkbplJAUO8nCiMV2W6/RbkwZEJ9iSwDw9Y0vI4u7z70jmkMk2TFKrV3vtw8KiQLKwx4TIXguywS2hISpR2SQScJ5eUVy8P1OwvDtrtkpH7TE1baifRU3j/ACrOcfQpljpVQtOukz8Jd0/eo6ygr4VMoUeEHhJ4Uq4uY7qsdsuca6MKdil0cCuBaHmlNLQe4pUARzB5bg5pk08A00ZlKUrTBSlKAPNN5edkT5VtjgNBSesdczsSglQK8nGAMj8a4Qpsmx2hiPCmocUpPWuYShKWytzh4QFDiWcqB2OwINfbyXTNvEZp4NIeDRII2UUniGTzwMn21VHpK2222UOIWGxkKLYPConJKeIZHYM7HYHupxTeNuZcv3Ru11knqVzIhQtScDIUMEd3bVXssxzQljcfamW27P3B9bhQxICWm0toOfGO3GQk7d/fjBndPsSJ3RpBgRnlNGRAKFKAB2KSMb+evmhtCoh2iQzqZiHNL8hL6GASttPCnhycgZJqZySu/TtT6os9vlonXayy28hD6C4kEYICmVkZ9tWd1VQT5aOo7WWEBCPG8UDYf9S9qmH1VJrukjpBWyBv8n8n3W0XLOEiR4O6f4F7b+Y4qzMD7Vk+oa+ZyqT0gqzYFDO/XN4/vFXK3uddLW6f04rCvaXK3ZT5WvBtxGlFkjSlK9AlFKUoA8zaiWRcXkq5hRFVySvJO9TWpXc3OQTzKiffVdeXk0xh6L6MV40Pbuf/AJJ+AqckuVW+jReND23P7pPwAqZkLzmppZOqMNBzf7d6a/pLqakKqBaP27bvTX9JdZ90mtRm1uOrSlKRkknFQbyaikUaEeTKn0hSx4NEip3U9JRt5Acmth25ssylNHmiIwn2FytVWVStXa6YcQlRhQ8qJxsQP95x+IrbbP50keoa+Zyumwg4q39F3Uk5UvhmUpSvSJRSlKAPKepV4ur48tQLis1L6oV9sP8AnqFUaYw9C9HCvuRbPVD4VNOq3qvdHC/uVbR3NAe4VOrNSSydlgibsJJmwhCaU691pwlK0I/Vr7VAj3VHSorj3i3izT1o/SW0Y0gp/p4R8DVhgHOo7d6a/pLq5ONodSUuISpJ5hQyK5zhdPoZajj0VvRbVgi29QsbamkqXh0vNlCyodhyByzyG29TzH50keoa+ZysGbYIT4Ko6PBX8eK4x4mPOBzHkrH0uqcmXOj3IhT0dDSAsDHGnKyD7+z3U+k/1TElTVlipSlVHMUpSgDybfFBOpSVYwHATtntqCUd6ltV8bF+lJeSppaFkEOJ4SCFEdvlFRsSJKnK4YMWRJVnGGGlOfAGmMN69HB+5tv9AfAVPJXllJ7xUDoBmRE0tEjS4z8Z9pIC232lIUNh2EVNnsQgE42AG9RyyzssH22HOo7f6a/prq71raXd42nbvAm3gOxogcwt5TSuFIUhaQeXfgfjWc70taS4iiHJlznOxEWG4onzZAocW0qFeS9ZrGYA/Ksk/wAhr5nKpP8AyBdpqQbLoW+SCeRlBMdPt8arHpNV8kokz9QwWbe88UoZiNu9YW2053UobEkqVy7MU2nCSlbFbLBSlKoMFKUoAwX7Na5MsTJFthOykjAfcjpUsD0iM1mIQlCQlCQlI5ADArlSgDqcjMOrC3WW1qHIqSCRXNKEoGEJCR3AYrlSgDHmQYk9rqp0ViS3nPA82FjPmNc48aPGTwxmGmk9zaAke6u2lAClKUAKUpQB/9k=",
+      "quantity": 1,
+      "productId": 6,
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "name": "MI C54",
+      "price": "11,000",
+      "category": "Mobile",
+      "color": "Blue",
+      "description": "5g mobile",
+      "image": "https://i0.wp.com/nepaligadgets.com/wp-content/uploads/2022/02/Vivo-T1-5G-Price-in-Nepal..jpg?resize=800%2C445&ssl=1",
+      "quantity": 1,
+      "productId": 1,
+      "userId": 1,
+      "id": 4
+    }
+  ]
+}
